@@ -19,5 +19,9 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jxson/mkdirp-stream/issues"
+  },
+  "dependencies": {
+    "through": "~2.3.4",
+    "mkdirp": "~0.3.5"
   }
 }
