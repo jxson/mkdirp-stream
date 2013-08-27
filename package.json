@@ -1,0 +1,23 @@
+{
+  "name": "mkdirp-stream",
+  "version": "0.0.0",
+  "description": "A stream that creates directories via mkdirp",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/test-*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jxson/mkdirp-stream.git"
+  },
+  "keywords": [
+    "mkdir",
+    "mkdirp",
+    "directory"
+  ],
+  "author": "Jason Campbell <jason@js.la> (http://artifact.sh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jxson/mkdirp-stream/issues"
+  }
+}
