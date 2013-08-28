@@ -1,6 +1,6 @@
 {
   "name": "mkdirp-stream",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A stream that creates directories via mkdirp",
   "main": "index.js",
   "scripts": {
