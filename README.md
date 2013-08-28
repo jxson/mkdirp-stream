@@ -8,14 +8,14 @@ A streaming directory creator.
 
 Create some folders
 
-  dirstream([ 'foo', 'bar' ])
-  .pipe(process.stdout)
+    dirstream([ 'foo', 'bar' ])
+    .pipe(process.stdout)
 
 Copy a directory structure from a source to a destination, this is great as part of a copy pre-process
 
-  powerwalk(source)
-  .pipe(dirstream(source, destination))
-  .pipe(process.stdout)
+    powerwalk(source)
+    .pipe(dirstream(source, destination))
+    .pipe(process.stdout)
 
 # LICENSE (MIT)
 
