@@ -21,7 +21,7 @@
     "url": "https://github.com/jxson/mkdirp-stream/issues"
   },
   "dependencies": {
-    "through": "~2.3.4",
-    "mkdirp": "~0.3.5"
+    "mkdirp": "~0.3.5",
+    "map-stream": "0.0.2"
   }
 }
